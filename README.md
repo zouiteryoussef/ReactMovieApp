@@ -1,2 +1,0 @@
-# ReactMovieApp
-Created with CodeSandbox
